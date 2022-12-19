@@ -10,20 +10,18 @@
   <h3>About</h3>
   <div align="left">
     <ul>
+      <li>An ambitious and self-motivated full-stack web developer with considerable technical skills who possesses self-discipline and the ability to work with a minimum of supervision. </li>
       <li>
         I’m currently learning Full Stack Web Development Programme and DSA at
         Masai School.
       </li>
-      <br />
       <li>
         Gmail
         <a href="mailto:angolkarnikhil@gmail.com" target="_blank"
           >angolkarnikhil@gmail.com</a
         >
       </li>
-      <br />
       <li>Portfolio availaible at https://capitaln.github.io/</li>
-      <br />
       <li>
         Resume available at
         <a
