@@ -1,5 +1,5 @@
  <div align="center">
- <h2>Hi there! ✋ im Nikhil Angolkar</h2>
+ <h2>Hi there! ✋ i am Nikhil Angolkar</h2>
 <img align="right" width="40%" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
  
  <h3>About</h3>
