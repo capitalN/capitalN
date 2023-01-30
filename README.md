@@ -19,7 +19,7 @@
       <tr>
         <td>1.</td>
         <td>
-          <a href="https://dulcet-marigold-6dca17.netlify.app/">Freshly.com</a>
+          <a href="https://freshlyfw200091.netlify.app/index.html">Freshly.com</a>
         </td>
         <td>Html, CSS, JavaScript</td>
         <td>
@@ -39,7 +39,7 @@
       <tr>
         <td>3.</td>
         <td>
-          <a href="https://dulcet-marigold-6dca17.netlify.app/">pepperfry.com</a>
+          <a href="https://home-interior-capitaln.vercel.app/">pepperfry.com</a>
         </td>
         <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
         <td>
