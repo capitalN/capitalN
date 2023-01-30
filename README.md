@@ -59,31 +59,17 @@
       </tr>
     </tbody>
   </table>
-   <div>
-    <h2>Statistics</h3>
-    <p>
-      <img
-        align="left"
-        width="45%"
+  <h2>Statistics</h3>
+   <div align="space-between">
+      <img width="47%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=capitalN&show_icons=true&locale=en&layout=compact"
         alt="nikhil angolkar"
       />
-    </p>
-    <p>
-      &nbsp;<img
-        align="right"
-        width="45%"
+      <img width="45%"
         src="https://github-readme-stats.vercel.app/api?username=capitalN&show_icons=true&locale=en"
         alt="nikhil angolkar"
       />
-    </p>
   </div>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
-   <br/>
   <div>
     <h2>Contact</h3>
     <a href="7795334086" target="_blank">7795334086</a> |
