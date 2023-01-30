@@ -64,7 +64,7 @@
     <p>
       <img
         align="left"
-        width="47%"
+        width="45%"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=capitalN&show_icons=true&locale=en&layout=compact"
         alt="nikhil angolkar"
       />
@@ -72,7 +72,7 @@
     <p>
       &nbsp;<img
         align="right"
-        width="47%"
+        width="45%"
         src="https://github-readme-stats.vercel.app/api?username=capitalN&show_icons=true&locale=en"
         alt="nikhil angolkar"
       />
