@@ -4,10 +4,8 @@
   <p>
       An ambitious and self-motivated full-stack web developer with considerable technical skills who possesses self-discipline and the ability to work with a minimum of supervision.
   </p>
-  <br/>
  <h2>Tech Stack</h2>
  <img src="https://user-images.githubusercontent.com/107465553/215518951-482a4d49-8c9c-49f5-8ef0-d39a7b3a0b4d.jpg" alt="tech stacks"/>  
-  <br/>
   <br/>
    <h2>Projects</h2>
   <table align="center" border="2">
@@ -89,7 +87,6 @@
    <br/>
    <br/>
   <br/>
-  <br/>
   <div>
     <h2>Contact</h3>
     <a href="7795334086" target="_blank">7795334086</a> |
@@ -103,6 +100,5 @@
       >LinkedIn</a
     >
   </div>
-  <br/>
   ★★★★★
 </div>
