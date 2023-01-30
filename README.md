@@ -33,7 +33,7 @@
         </td>
         <td>Html, CSS, JavaScript</td>
         <td>
-          <a href="">repository</a>
+          <a href="https://github.com/capitalN/lately.ai">repository</a>
         </td>
       </tr>
       <tr>
@@ -53,7 +53,7 @@
         </td>
         <td>Html, CSS, JavaScript, React.js, redux, ChakraUI</td>
         <td>
-          <a href="https://github.com/capitalN/scrawny-meat-2282">repository</a>
+          <a href="https://github.com/capitalN/cult.fit">repository</a>
         </td>
       </tr>
     </tbody>
