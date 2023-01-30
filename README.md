@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hii, I am Nikhil Angolkar</h1>
+  <h1>Hii, I am Nikhil Angolkar 👋</h1>
    <h2>About</h2>
   <p>
       An ambitious and self-motivated full-stack web developer with considerable technical skills who possesses self-discipline and the ability to work with a minimum of supervision.
