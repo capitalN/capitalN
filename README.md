@@ -5,7 +5,7 @@
   </p>
  <h2>Tech Stack</h2>
  <img src="https://user-images.githubusercontent.com/107465553/215518951-482a4d49-8c9c-49f5-8ef0-d39a7b3a0b4d.jpg" alt="tech stacks"/>  
-   <h2>Projects</h2>
+   <h2>Projects (Clone)</h2>
   <table align="center" border="2">
     <thead>
       <tr>
