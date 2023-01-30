@@ -60,7 +60,6 @@
       </tr>
     </tbody>
   </table>
-  <br/>
    <div>
     <h2>Statistics</h3>
     <p>
@@ -86,7 +85,6 @@
    <br/>
    <br/>
    <br/>
-  <br/>
   <div>
     <h2>Contact</h3>
     <a href="7795334086" target="_blank">7795334086</a> |
