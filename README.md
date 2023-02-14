@@ -61,11 +61,11 @@
   <h2>Statistics</h3>
    <div align="space-between">
       <img width="47%"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=capitalN&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=capitalN&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
         alt="nikhil angolkar"
       />
       <img width="45%"
-        src="https://github-readme-stats.vercel.app/api?username=capitalN&show_icons=true&locale=en"
+        src="https://github-readme-stats.vercel.app/api?username=capitalN&show_icons=true&locale=en&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
         alt="nikhil angolkar"
       />
   </div>
