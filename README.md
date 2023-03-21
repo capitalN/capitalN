@@ -38,7 +38,7 @@
       <tr>
         <td>3.</td>
         <td>
-          <a href="https://home-interior-one.vercel.app/" target="_blank">pepperfry.com</a>
+          <a href="https://home-interior-one.vercel.app/" target="_blank">Home Interior</a>
         </td>
         <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
         <td>
