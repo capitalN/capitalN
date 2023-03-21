@@ -1,8 +1,6 @@
 <div align="center">
   <h1>Hii, I am Nikhil Angolkar 👋</h1>
-  <p>
-      An ambitious and self-motivated full-stack web developer with considerable technical skills who possesses self-discipline and the ability to work with a minimum of supervision.
-  </p>
+  <p>As an ambitious and self-motivated full-stack web developer, I have developed considerable technical skills through my learning in the field. My self-discipline and ability to work independently with minimal supervision allow me to take on challenging projects and deliver high-quality results. I am constantly striving to improve my skills and knowledge to stay at the forefront of the industry.</p>
  <h2>Tech Stack</h2>
  <img src="https://user-images.githubusercontent.com/107465553/215518951-482a4d49-8c9c-49f5-8ef0-d39a7b3a0b4d.jpg" alt="tech stacks"/>  
    <h2>Projects (Clone)</h2>
