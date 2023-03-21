@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hii, I am Nikhil Angolkar 👋</h1>
   <p>As an ambitious and self-motivated full-stack web developer, I have developed considerable technical skills through my learning in the field. My self-discipline and ability to work independently with minimal supervision allow me to take on challenging projects and deliver high-quality results. I am constantly striving to improve my skills and knowledge to stay at the forefront of the industry.</p>
+  <p>know more about me in my <a href="https://drive.google.com/file/d/1GtZiQIVtAi8ap6WSe38hKNHeB_c4T4eg/view">RESUME</a> & <a href="https://capitaln.github.io/">PORTFOLIO</a></p>
  <h2>Tech Stack</h2>
  <img src="https://user-images.githubusercontent.com/107465553/215518951-482a4d49-8c9c-49f5-8ef0-d39a7b3a0b4d.jpg" alt="tech stacks"/>  
    <h2>Projects (Clone)</h2>
