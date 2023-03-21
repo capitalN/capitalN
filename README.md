@@ -11,7 +11,7 @@
       <tr>
         <th>#</th>
         <th>Project Name/Link</th>
-        <th>Techonology/Stack</th>
+        <th>Tech-Stack</th>
         <th>Github Link</th>
       </tr>
     </thead>
@@ -19,11 +19,11 @@
       <tr>
         <td>1.</td>
         <td>
-          <a href="https://freshlyfw200091.netlify.app/index.html">Freshly.com</a>
+          <a href="https://nibbi.vercel.app/">Nibbi.com</a>
         </td>
         <td>Html, CSS, JavaScript</td>
         <td>
-          <a href="https://github.com/capitalN/freshly">repository</a>
+          <a href="https://github.com/capitalN/nibbi.com">repository</a>
         </td>
       </tr>
       <tr>
