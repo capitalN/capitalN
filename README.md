@@ -21,7 +21,7 @@
         <td>
           <a href="https://nibbi.vercel.app/">Nibbi.com</a>
         </td>
-        <td>Html, CSS, JavaScript</td>
+        <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom, Node.js, Express.js, MongoDB</td>
         <td>
           <a href="https://github.com/capitalN/nibbi.com">repository</a>
         </td>
@@ -39,7 +39,7 @@
       <tr>
         <td>3.</td>
         <td>
-          <a href="https://home-interior-capitaln.vercel.app/">pepperfry.com</a>
+          <a href="https://home-interior-one.vercel.app/">pepperfry.com</a>
         </td>
         <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
         <td>
@@ -49,9 +49,9 @@
       <tr>
         <td>4.</td>
         <td>
-          <a href="https://wakehealthy.vercel.app/">cult.fit</a>
+          <a href="https://cult-fit-psi.vercel.app">cult.fit</a>
         </td>
-        <td>Html, CSS, JavaScript, React.js, redux, ChakraUI</td>
+        <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom, Json Server.</td>
         <td>
           <a href="https://github.com/capitalN/cult.fit">repository</a>
         </td>
