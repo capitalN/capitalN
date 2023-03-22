@@ -18,7 +18,7 @@
       <tr>
         <td>1.</td>
         <td>
-          <a href="https://nibbi.vercel.app/" target="_blank">Nibbi.com</a>
+          <a href="https://nibbi-capitaln.vercel.app/" target="_blank">Nibbi.com</a>
         </td>
         <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom, Node.js, Express.js, MongoDB</td>
         <td>
