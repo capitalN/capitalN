@@ -40,7 +40,7 @@
         <td>
           <a href="https://mock-11-capitaln.vercel.app/" target="_blank">Rick_and_Morty</a>
         </td>
-        <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
+        <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom</td>
         <td>
           <a href="https://github.com/capitalN/rick_and_morty" target="_blank">repository</a>
         </td>
