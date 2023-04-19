@@ -18,41 +18,31 @@
       <tr>
         <td>1.</td>
         <td>
-          <a href="https://nibbi-capitaln.vercel.app/" target="_blank">Nibbi.com</a>
+          <a href="https://dermstore-capitaln.vercel.app/" target="_blank">DermStore</a>
         </td>
         <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom, Node.js, Express.js, MongoDB</td>
         <td>
-          <a href="https://github.com/capitalN/nibbi.com" target="_blank">repository</a>
+          <a href="https://github.com/capitalN/dermstore" target="_blank">repository</a>
         </td>
       </tr>
       <tr>
         <td>2.</td>
-        <td>
-          <a href="https://dulcet-marigold-6dca17.netlify.app/" target="_blank">Lately.ai</a>
-        </td>
-        <td>Html, CSS, JavaScript</td>
-        <td>
-          <a href="https://github.com/capitalN/lately.ai" target="_blank">repository</a>
-        </td>
-      </tr>
-      <tr>
-        <td>3.</td>
-        <td>
-          <a href="https://home-interior-one.vercel.app/" target="_blank">Home Interior</a>
-        </td>
-        <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
-        <td>
-          <a href="https://github.com/capitalN/scrawny-meat-2282" target="_blank">repository</a>
-        </td>
-      </tr>
-      <tr>
-        <td>4.</td>
         <td>
           <a href="https://cult-fit-psi.vercel.app" target="_blank">cult.fit</a>
         </td>
         <td>HTML, CSS, JS, React, ChakraUI, Redux, Router Dom, Json Server.</td>
         <td>
           <a href="https://github.com/capitalN/cult.fit" target="_blank">repository</a>
+        </td>
+      </tr>
+      <tr>
+        <td>3.</td>
+        <td>
+          <a href="https://mock-11-capitaln.vercel.app/" target="_blank">Rick_and_Morty</a>
+        </td>
+        <td>Html, CSS, JavaScript, Next.js, Redux, ChakraUI</td>
+        <td>
+          <a href="https://github.com/capitalN/rick_and_morty" target="_blank">repository</a>
         </td>
       </tr>
     </tbody>
