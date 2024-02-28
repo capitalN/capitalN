@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hii, I am Nikhil Angolkar 👋</h1>
+  <h1>Hii, I am Nikhil👋</h1>
   <p>As an ambitious and self-motivated full-stack web developer, I have developed considerable technical skills through my learning in the field. My self-discipline and ability to work independently with minimal supervision allow me to take on challenging projects and deliver high-quality results. I am constantly striving to improve my skills and knowledge to stay at the forefront of the industry.</p>
   <p>know more about me in my <a href="https://drive.google.com/file/d/1GtZiQIVtAi8ap6WSe38hKNHeB_c4T4eg/view"  target="_blank">RESUME</a> & <a href="https://capitaln.github.io/" target="_blank">PORTFOLIO</a></p>
  <h2>Tech Stack</h2>
